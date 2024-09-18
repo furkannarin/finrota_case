@@ -1,0 +1,48 @@
+{
+    "buttons": {
+        "filterBtns": {
+            "daily": "Günlük",
+            "monthly": "Aylık",
+            "annual": "Yıllık"
+        },
+        "paymentTypes": {
+            "card": "Kredi Kartı ile",
+            "email": "E-Mail ile",
+            "sms": "SMS ile",
+            "qr": "QR ile"
+        }
+    },
+    "status": {
+        "success": "Başarılı",
+        "onHold": "Beklemede"
+    },
+    "headers": {
+        "banks": "Banka Bazında Ödemeler",
+        "latest": "Son işlemler",
+        "paymentMenus": "Ödeme Al Menüleri",
+        "seeAll": "Tümünü Gör"
+    },
+    "subheaders": {
+        "payment": "Ödeme",
+        "refund": "İptal/İade",
+        "total": "Toplam",
+        "islem1": "İşlem Adedi: 1",
+        "islem2": "İşlem Adedi: 0"
+    },
+    "datesAndAmounts": {
+        "latest1": "22.12.2021 | 10:47:38",
+        "latest2": "17.865.522,19 TL",
+        "banks": "01.01.2022 tarihinden itibaren",
+        "half": "50%",
+        "quarter": "25%",
+        "amount1": "100,00 TL",
+        "amount2": "50,00 TL",
+        "amount3": "0,00 TL"
+    },
+    "person": "Fatih Öztürk",
+    "cards": {
+        "axess": "Param Axess",
+        "bonus": "Param Bonus",
+        "world": "Param World"
+    }
+}
